@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="calcButton">Calculate</string>
+    <string name="Tiptxt">Tip:</string>
+    <string name="billAmounttxt">Bill Amount</string>
+    <string name="roundChecktxt">Round to nearest dollar</string>
+</resources>
